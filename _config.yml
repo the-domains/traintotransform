@@ -1,0 +1,28 @@
+name: traintotransform
+favicon: null
+layout_spectrum: 0.4583410210907459
+typography_spectrum: 0.17934280750341713
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.14453673036769032
+  lightness: 0.06953534483909607
+  saturation: 0.6406002859584987
+  rhythmicContrast: 0.6023689166177064
+purpose: []
