@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: Ditch the coffee and start your day with a Matcha Green Tea coconut milk powder latte
-datePublished: '2016-04-09T13:45:17.148Z'
-dateModified: '2016-04-09T13:44:59.981Z'
-title: ''
+description: ''
+datePublished: '2016-04-10T07:31:00.175Z'
+dateModified: '2016-04-10T06:36:49.167Z'
+title: Ditch the coffee and start your day with a Matcha Green Tea coconut milk powder latte
 author: []
 sourcePath: _posts/2016-04-09-ditch-the-coffee-and-start-your-day-with-a-matcha-green-tea.md
 published: true
@@ -22,8 +22,6 @@ url: ditch-the-coffee-and-start-your-day-with-a-matcha-green-tea/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/841f121a3de2eb4e183706fcd92bd7d5e410b87b.jpg)
-
 Ditch the coffee and start your day with a Matcha Green Tea coconut milk powder latte
 
 So many of us hit the coffee first thing in the morning, me included, but I wanted to share with you a green-tastic alternative which wont be such an adrenal killer but will still give you an awesome boost to your day or training....
@@ -64,12 +62,8 @@ Enjoy!
 
 ****
 
-  
-  
 ****
 
   
-  
 ****
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1484fec7-40af-4419-8d6c-1c5a21ec3ed8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/daa80b20-eae4-479e-b3ce-38ca40a0258d.jpg)
