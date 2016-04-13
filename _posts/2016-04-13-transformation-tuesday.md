@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Transformation Tuesday!'
-datePublished: '2016-04-13T17:14:39.085Z'
-dateModified: '2016-04-13T17:04:07.739Z'
+description: ''
+datePublished: '2016-04-13T17:15:21.995Z'
+dateModified: '2016-04-13T17:15:20.816Z'
 title: ''
 author: []
 authors: []
@@ -22,7 +22,6 @@ url: transformation-tuesday/index.html
 _type: Article
 
 ---
-Transformation Tuesday!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95997f62-2246-4936-840d-d1af15e89bd7.jpg)
 
 If you always do what you have always done, you will
