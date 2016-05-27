@@ -1,28 +1,40 @@
-name: traintotransform
-favicon: null
-layout_spectrum: 0.83004
-typography_spectrum: 0.2489
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.6875
+  brandStrength: 0.8684211
+  lightness: 0.625
   brandColors:
     - '#ffffff'
     - '#a79376'
     - '#dad2c4'
     - '#271545'
     - '#5c4f72'
-  brandStrength: 0.5625
-  lightness: 0.625
-  saturation: 0.6875
-  rhythmicContrast: 0.75
-purpose: []
+  rhythmicContrast: 0.3313641
+typography_spectrum: 0.4441461
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.452739
+favicon: null
+name: traintotransform
